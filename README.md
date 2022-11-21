@@ -5,8 +5,8 @@ Three webpages were made with each having thier own recipes using links, images,
 Each webpage has links back to the index page. 
 
 HTML used this session:
-<a href="">Link</a>
+<!-- <a href="">Link</a>
 <ol>Ordered List</ol>
 <ul>Unordered List</ul>
 <img src="">
-<h1>Headers</h1>
+<h1>Headers</h1> -->
